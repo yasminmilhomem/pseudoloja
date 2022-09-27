@@ -1,0 +1,10 @@
+.card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .product-box{
+    size: 50px;
+    background-color: #f5d9bc;
+  }
+    
